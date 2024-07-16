@@ -1,0 +1,22 @@
+.header{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.hone{
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+   text-align: center;
+   font-size: 1em;
+}
+#cel{
+    text-align: center;
+}
+ul{
+    text-align: center;
+    list-style-type: none;
+}
